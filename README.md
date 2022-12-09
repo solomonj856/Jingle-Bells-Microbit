@@ -2,6 +2,23 @@
 
 
 
+1. Connect battery to microbit.
+2. Attach buzzer in pin 0.
+3. Attach vibrator in pin 2.
+4. Attach rotary angle sensor to pin 1.
+
+
+Materials:
+Vibrator
+Buzzer
+Rotary Angle Sensor
+Microbit
+Battery
+
+Resources:
+
+wiki.seeedstudio.com
+
 
 
 
@@ -10,5 +27,6 @@
 
 
 
+![image](https://user-images.githubusercontent.com/61333117/206774212-d6a5e5ab-9741-42c2-ba1d-9a9c37f79297.png)
 
 
