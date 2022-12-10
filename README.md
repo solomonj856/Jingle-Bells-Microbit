@@ -43,7 +43,7 @@ that gives you the option to have vibration or not.
 
 
 We have a forever loop that shows a certain amount of leds depending on the value of our volume variable.
-![image](https://user-images.githubusercontent.com/61333117/206877122-8de41d7b-7cc4-4b8d-9519-5865795b4282.png)
+![image](https://user-images.githubusercontent.com/61333117/206877651-7fffdbf0-adf8-4e7f-8bc7-5f41c601a1d8.png)
 
 
 
