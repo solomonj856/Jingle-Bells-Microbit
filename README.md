@@ -1,33 +1,54 @@
 # Jingle-Bells-Microbit
 
 
-
-1. Connect battery to microbit.
-2. Attach buzzer in pin 0.
-3. Attach vibrator in pin 2.
-4. Attach rotary angle sensor to pin 1.
-
-
 # Materials:
-Vibrator
-Buzzer
-Rotary Angle Sensor
-Microbit
-Battery
+•	Vibration Motor
+• Buzzer
+• Rotary Angle Sensor
+• Microbit
+• Battery
+• Microbit Expansion Board
+• Cable
+
+1. Connect the microbit to the microbit expansion board.
+2. Power the microbit with the battery.
+3. Attach the buzzer to pin 0.
+4. Attach the vibration motor to pin 2.
+5. Attach the rotary angle sensor to pin 1.
+6. Download the code into the microbit by using the cable.
+
+
+
 
 # Resources:
 
-wiki.seeedstudio.com
+[wiki.seeedstudio.com](https://wiki.seeedstudio.com/)
+https://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/
 
 
+# Screenshots:
 
-
+Image of our Microbit
 ![jinglebells](https://user-images.githubusercontent.com/61333117/206769831-27ea8a6b-6175-4304-bf65-b21ed759598b.jpg)
 
 
 
+We created a function so that we can adjust our volume according to our analog read pin P1, which is also our rotary angle sensor.
+Furthermore, we made a bass variable to change the vibration of our motorthroughout the jingle bells song. We also added a button function 
+that gives you the option to have vibration or not.
 
 ![image](https://user-images.githubusercontent.com/61333117/206774212-d6a5e5ab-9741-42c2-ba1d-9a9c37f79297.png)
+
+
+We have a forever loop that shows a certain amount of leds depending on the value of our volume variable.
+![image](https://user-images.githubusercontent.com/61333117/206877122-8de41d7b-7cc4-4b8d-9519-5865795b4282.png)
+
+
+
+This is another forever loop that plays our song with different tones from the music extension.
+![image](https://user-images.githubusercontent.com/61333117/206877307-a68fd657-c9c5-48cd-9d32-bd52b07338fc.png)
+
+
 
 # Jingle bells video:
 
