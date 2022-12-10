@@ -47,6 +47,8 @@ We have a forever loop that shows a certain amount of leds depending on the valu
 
 
 
+
+
 This is another forever loop that plays our song with different tones from the music extension.
 ![image](https://user-images.githubusercontent.com/61333117/206877307-a68fd657-c9c5-48cd-9d32-bd52b07338fc.png)
 
