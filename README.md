@@ -2,13 +2,15 @@
 
 
 # Materials:
-•	Vibration Motor
-• Buzzer
-• Rotary Angle Sensor
-• Microbit
-• Battery
-• Microbit Expansion Board
-• Cable
+* Vibration Motor
+* Buzzer
+* Rotary Angle Sensor
+* Microbit
+* Battery
+* Microbit Expansion Board
+* Cable
+
+# Directions:
 
 1. Connect the microbit to the microbit expansion board.
 2. Power the microbit with the battery.
