@@ -29,4 +29,8 @@ wiki.seeedstudio.com
 
 ![image](https://user-images.githubusercontent.com/61333117/206774212-d6a5e5ab-9741-42c2-ba1d-9a9c37f79297.png)
 
+Jingle bells video:
+
+https://sd43bcca-my.sharepoint.com/:v:/g/personal/132-sjaena_sd43_bc_ca/Ee-5S227GohLrbfRdaGdhmEBsjaStc9PkbuuQ09eJFmNfw?e=yi75cF
+
 
